@@ -1,0 +1,23 @@
+{
+  "name": "creando-mi-pagina",
+  "version": "1.0.0",
+  "description": "Creando mi pagina para proyecto Coder House",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass":"node-sass sass/main.scss css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaJCalderon/SEOS-PICA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaJCalderon/SEOS-PICA.git"
+  },
+  "homepage": "https://github.com/GonzaJCalderon/SEOS-PICA.git",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
